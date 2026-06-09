@@ -2,4 +2,4 @@
 Practical cybersecurity portfolio showcasing security audits, incident response documentation, and network traffic analysis.
 
 ## Professional Statement
-Driven by an adversarial mindset, I am a cybersecurity professional focused on strengthening defensive operations through practical vulnerability research and network analysis. I value infrastructure resilience and clear technical communication, ensuring that complex threats are translated into actionable mitigation strategies. By understanding exactly how attackers navigate environments, I help organizations proactively triage alerts, secure critical assets, and reduce operational risk.
+Driven by an adversarial mindset, I am a cybersecurity professional focused on offensive security, controlled exploitation, and deep vulnerability research. I value identifying critical flaws before they are weaponized, utilizing clear technical communication to translate real-world attack scenarios into structural remediation steps. By executing practical penetration testing methodologies, I help organizations uncover hidden risks and actively harden their infrastructure.
